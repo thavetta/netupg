@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGraphApp", "WpfGraphApp\WpfGraphApp.csproj", "{ED1F2291-48CB-4A36-BF04-B7C5FEA685C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLib", "DataLib\DataLib.csproj", "{6450DB0D-5F6A-4879-928C-8A48446B26B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1F2291-48CB-4A36-BF04-B7C5FEA685C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1F2291-48CB-4A36-BF04-B7C5FEA685C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1F2291-48CB-4A36-BF04-B7C5FEA685C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1F2291-48CB-4A36-BF04-B7C5FEA685C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6450DB0D-5F6A-4879-928C-8A48446B26B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6450DB0D-5F6A-4879-928C-8A48446B26B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6450DB0D-5F6A-4879-928C-8A48446B26B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6450DB0D-5F6A-4879-928C-8A48446B26B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E90333-C8C6-45AB-AE64-05C8BE036AD1}
+	EndGlobalSection
+EndGlobal
