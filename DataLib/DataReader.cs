@@ -13,7 +13,7 @@ namespace DataLib
         public DataReader()
         {
             GetNetworkAdaptorName();
-            Debug.WriteLine(m_szAdaptorName);
+            Debug.WriteLine("Pokus> " + m_szAdaptorName);
         }
 
         private const int MAX_ADAPTER_NAME_LENGTH = 256;
